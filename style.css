@@ -218,6 +218,9 @@ h1{
 .not-found{
     display: none;
 }
+.not-found p{
+    text-align: center;
+}
 .not-found.active{
     display: flex;
     width: 200px;
